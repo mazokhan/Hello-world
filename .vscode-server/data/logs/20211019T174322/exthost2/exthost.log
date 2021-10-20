@@ -1,0 +1,16 @@
+[2021-10-19 17:45:23.387] [exthost] [info] extension host started
+[2021-10-19 17:45:23.590] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-19 17:45:23.591] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mazen/.vscode-server/bin/c13f1abb110fc756f9b3a6f16670df9cd9d4cf63/extensions/debug-auto-launch/dist/extension
+[2021-10-19 17:45:23.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-19 17:45:23.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mazen/.vscode-server/bin/c13f1abb110fc756f9b3a6f16670df9cd9d4cf63/extensions/git/dist/main
+[2021-10-19 17:45:23.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-19 17:45:23.733] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mazen/.vscode-server/bin/c13f1abb110fc756f9b3a6f16670df9cd9d4cf63/extensions/github/dist/extension.js
+[2021-10-19 17:45:23.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 17:45:23.797] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mazen/.vscode-server/bin/c13f1abb110fc756f9b3a6f16670df9cd9d4cf63/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-19 17:45:23.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-19 17:45:23.816] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mazen/.vscode-server/bin/c13f1abb110fc756f9b3a6f16670df9cd9d4cf63/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-19 17:45:23.819] [exthost] [info] eager extensions activated
+[2021-10-19 17:45:23.821] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-19 17:45:23.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mazen/.vscode-server/bin/c13f1abb110fc756f9b3a6f16670df9cd9d4cf63/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-19 19:59:01.253] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-10-19 19:59:02.279] [exthost] [info] exiting with code 0
